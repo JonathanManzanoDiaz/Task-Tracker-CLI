@@ -29,7 +29,7 @@ A lightweight and efficient Command-Line Interface (CLI) application built with 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/JonathanManzanoDiaz/Task-Tracker-CLI.git](https://github.com/JonathanManzanoDiaz/Task-Tracker-CLI.git)
+    git clone (https://github.com/JonathanManzanoDiaz/Task-Tracker-CLI.git)
     ```
 
 2.  **Navigate to the folder:**
